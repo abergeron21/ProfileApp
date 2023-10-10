@@ -39,20 +39,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {},
         "BackgroundColor": "rgba(80, 227, 194, 1)"
     },
     "children": [
@@ -65,9 +56,9 @@
                 "Height": 198,
                 "Width": 362,
                 "Visible": true,
-                "X": 5,
+                "X": 7,
                 "Y": 78,
-                "RelativeX": 5,
+                "RelativeX": 7,
                 "RelativeY": 78,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -92,7 +83,6 @@
                     "top": "14.396550809068122%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "a16e7593-9f4b-4595-8b28-c98f16242689",
                 "position": "absolute",
                 "edgeOffsets": 78

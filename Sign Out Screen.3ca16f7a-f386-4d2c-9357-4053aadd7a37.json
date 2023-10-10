@@ -40,20 +40,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -79,7 +70,6 @@
                     "color": "rgba(208, 2, 27, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -236,13 +226,13 @@
             "properties": {
                 "Picture": "alexgram-high-resolution-logo-black-on-transparent-background.png",
                 "resizeMode": "stretch",
-                "Height": 163,
-                "Width": 288,
+                "Height": 167,
+                "Width": 286,
                 "Visible": true,
-                "X": 45.79999923706055,
-                "Y": 49,
-                "RelativeX": 45.79999923706055,
-                "RelativeY": 49,
+                "X": 45,
+                "Y": 43,
+                "RelativeX": 45,
+                "RelativeY": 43,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -266,10 +256,9 @@
                     "top": "8.347074631629498%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "3ca16f7a-f386-4d2c-9357-4053aadd7a37",
                 "position": "absolute",
-                "edgeOffsets": 49.79999923706055
+                "edgeOffsets": 43
             },
             "children": [],
             "id": "4793b246-abf2-4d8a-af4c-5a89cc9dbc42",
@@ -299,7 +288,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 20,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
